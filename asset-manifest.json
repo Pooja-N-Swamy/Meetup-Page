@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Meetup-Page/static/css/main.b91959e0.chunk.css",
+    "main.js": "/Meetup-Page/static/js/main.82ec5ff3.chunk.js",
+    "main.js.map": "/Meetup-Page/static/js/main.82ec5ff3.chunk.js.map",
+    "runtime-main.js": "/Meetup-Page/static/js/runtime-main.3374ba1d.js",
+    "runtime-main.js.map": "/Meetup-Page/static/js/runtime-main.3374ba1d.js.map",
+    "static/js/2.ac8f0f23.chunk.js": "/Meetup-Page/static/js/2.ac8f0f23.chunk.js",
+    "static/js/2.ac8f0f23.chunk.js.map": "/Meetup-Page/static/js/2.ac8f0f23.chunk.js.map",
+    "index.html": "/Meetup-Page/index.html",
+    "static/css/main.b91959e0.chunk.css.map": "/Meetup-Page/static/css/main.b91959e0.chunk.css.map",
+    "static/js/2.ac8f0f23.chunk.js.LICENSE.txt": "/Meetup-Page/static/js/2.ac8f0f23.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3374ba1d.js",
+    "static/js/2.ac8f0f23.chunk.js",
+    "static/css/main.b91959e0.chunk.css",
+    "static/js/main.82ec5ff3.chunk.js"
+  ]
+}
